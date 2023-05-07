@@ -2,9 +2,9 @@
 
 * [وب سایت اسناد چند زبانه](https://github.com/xxai-doc)
 
-کد جلویی وب سایت منبع باز است، برای کمک به بهینه سازی ترجمه خوش آمدید
+کد ظاهری وب سایت منبع باز است، برای کمک به بهینه سازی ترجمه خوش آمدید
 
-* [کد جلویی](https://github.com/xxai-art/web)
+* [کد فرانت اند](https://github.com/xxai-art/web)
 * [بسته های زبان برای کل سایت](https://github.com/xxai-art/web/tree/main/i18n)
 * [بسته های زبان برای ماژول های ورود](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [وب سایت اسناد چند زبانه](https://github.com/xxai-doc)
