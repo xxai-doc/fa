@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) ، برخی از ویژگی‌ها را بر اساس نحو اسکریپت اضافه کنید، به [coffee_plus](./coffee_plus.md) مراجعه کنید.
 
-* متغیر را اعلام کنید
+## متغیر را اعلام کنید
 
 ```
 + var1, var2
 ```
 
-* برچسب اعلامیه
+## برچسب اعلامیه
 
 `:$` برای استفاده با [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) است.
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* واردات سریع
+## واردات سریع
 
 ```
 > zx/globals:
